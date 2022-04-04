@@ -1,0 +1,121 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Brond Schools.com + With Advance Touches on IT Solutions</title>
+<style type="text/css">
+<!--
+body,td,th {
+	color: #000000;
+}
+.style1 {
+	color: #333;
+	
+	font-size: 16px;
+	font-family: calibri;
+}
+.style2 {
+	font-size: 16px;
+	font-family: calibri;
+	color: #B6E37B;
+	font-weight:bold;
+	
+}
+.style3 {color: #000000}
+.style5 {
+	font-family: Arial;
+	font-size: 18px;
+}
+.style8 {font-size: 24px; font-family: Arial Rounded; color: #2F2118; }
+.style10 {font-size: 12px}
+.style11 {color: #2F2118; font-family: calibri;}
+.style12 {font-size: 18px; color: #000000; }
+.style15 {font-family: calibri}
+.style16 {
+	font-size: 14px;
+	font-weight: bold;
+}
+.style17 {font-size: 12px; color: #000000; font-family: calibri; }
+-->
+</style>
+</head>
+
+<body bgcolor="#BCE37B" onload="MM_preloadImages('nav/home1.png','nav/home2.png','nav/library1.png','nav/library2.png','nav/contact1.png','nav/contact2.png','nav/about us1.png','nav/about us2.png','nav/class1.png','nav/class2.png')">
+<p><map name="Map" id="Map">
+</map>
+</p>
+<table width="800" height="1000" border="0" align="center" cellpadding="5" cellspacing="4" background="Images/Site Background.jpg">
+	<tr>
+    	<td height="80" colspan="2"><img src="Images/Title_Banner.jpg" alt="Brond Schools" width="780" height="80" border="0" usemap="#MapMap3"  />
+        	<map name="MapMap3" id="MapMap3">
+            	<area shape="rect" coords="741,28,795,45" href="logging out.html"  />
+            </map>
+            
+            <p align="center">
+            <a href="home.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('home','','Nav/HOME1.png',1)"><img src="Nav/HOME2.png" name="home" width="134" height="42" border="0" id="home" /></a><a href="home.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('home','','Nav/HOME2.png',1)"></a>
+            <a href="library.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('library','','Nav/LIBRARY1.png',1)"><img src="Nav/LIBRARY2.png" name="library" width="134" height="42" border="0" id="library" /></a><a href="library.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('library','','Nav/LIBRARY2.png',1)"></a>
+            <a href="class.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('class','','Nav/CLASS1.png',1)"><img src="Nav/CLASS2.png" name="class" width="134" height="42" border="0" id="home" /></a><a href="class.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('class','','Nav/CLASS2.png',1)"></a>
+            <a href="contact.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('contact','','Nav/CONTACT1.png',1)"><img src="Nav/CONTACT2.png" name="contact" width="135" height="42" border="0" id="contact" /></a><a href="contact.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('contact','','Nav/CONTACT2.png',1)"></a>
+            <a href="about us.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('about us','','Nav/ABOUT US1.png',1)"><img src="Nav/ABOUT US2.png" name="about us" width="134" height="42" border="0" id="about us" /></a><a href="about us.html" onmouseout="MM_swapImgRestore()" onmouseover="MM_swapImage('about us','','Nav/ABOUT US2.png',1)"></a>
+          </p>
+          <img src="Images/Dark_k.png" height="180" width="782" boder="0" alt="Give us a try!" />  
+         </td>
+    </tr>
+    <tr>
+    		
+    <td width="743" height="530" align="center" valign="top" rowspan="8" background="Images/Text_back.jpg">
+    <tr>
+    	<td>
+              
+        	<div align="center"><p><b><span class="style8"><span style="color:#B6E37B">_</span><span class="style5">Welcome to Brond Schools online tutorial<span style="color:#B6E37B">_</span></span></b></p></div>
+            <ul><p align="left">
+            <span class="style1">Brond schools online tutorial is an unique site built and developed for impacting and sharing of Information Technology related knowledge to present and upcoming IT generations.</span></p>
+             <p align="left">
+            <span class="style1">Knowledge they say is power. You are only confident while saying what you know, and you know most of what you know by reading about them. Through out your classes you get an oppourtunity to unlock more <var>confidence</var> and not forgeting <var>power!</var> Come on in, lets get the unlocking started!</span>
+                       
+            <ul class="style">
+             <li class="style2">Website Designing</li>
+             <li class="style2">Web Development</li>
+             <li class="style2">Computer Hardware Maintainance</li>
+             <li class="style2">Visual Basic Programming</li>
+             <li class="style2">Basic Computer Networking</li>
+             <li class="style2">Cisco Networking</li>
+             <li class="style2">Dreamweaver</li>
+             <li class="style2">Graphics Design</li>
+             <li class="style2">More to come...</li>
+             </p></ul>
+                
+             <div align="right"><a href="class.html"><img src="Images/Get started.jpg" alt="Enter Classroom" width="150" height="51" /></a>
+             <div align="center">
+             
+             <i>The containing articles of this site are claims nor views of BROND SCHOOLS . All author(s) of these articles should be properly accredited and referenced.</i></p>
+             </div>
+          
+            </td>
+      </tr>
+        </table>
+        </td>
+     </tr>
+     <tr>
+     	<td colspan="" background="Images/Footer.jpg" width="700" height="40" valign="" align="">
+         <table align="left" width="89" height="70" background="Images/special.png"></table>
+         <div align="right" >
+        <a href="http://www.facebook.com"><img src="Images/facebook.png" width="50" height="50" alt="Facebook" id="Facebook" name="Facebook" border="0" /></a>
+        <a href="http://www.google.com"><img src="Images/google.png" width="50" height="50" alt="Google" id="Google" name="Google" border="0" /></a>
+        <a href="http://www.twitter.com"><img src="Images/twitter.png" width="50" height="50" alt="Twitter" id="Twitter" name="Twitter" border="0" /></a>
+        <a href="http://www.yahoo.com"><img src="Images/yahoo.png" width="50" height="50" alt="Yahoo" id="Yahoo" name="Yahoo" border="0" /></a>
+        </div>
+       
+        
+        <div align="center">
+                <span style="font-family:callibri; font-size:14px; color:#FFF">Copyright &copy;2014 Brond Schools</span></div>
+              
+        </td>
+       
+     </tr>
+        
+    </table>
+           
+     
+</body>
+</html>
